@@ -53,6 +53,12 @@ a visualization. **Merged PRs get exclusive 169pi swag. 🎁**
 <!-- ────────────────────────────────────────────────────────────────── -->
 
 <!-- ENTRIES:START -->
+### Team Uniflow in the house! 🚀
+
+Building awesome things with 169pi for the hackathon. Let's go!
+
+**Club:** Team Uniflow
+**Contributed by [@26bma038-lang](https://github.com/26bma038-lang)**
 
 ### @169pi — the first brick 🧱
 
